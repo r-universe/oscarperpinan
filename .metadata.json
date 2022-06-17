@@ -1,0 +1,18 @@
+[
+  {
+    "package": "meteoForecast",
+    "oncran": true
+  },
+  {
+    "package": "rasterVis",
+    "oncran": true
+  },
+  {
+    "package": "solaR",
+    "oncran": true
+  },
+  {
+    "package": "tdr",
+    "oncran": true
+  }
+]
