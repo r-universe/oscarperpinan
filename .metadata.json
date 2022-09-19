@@ -1,9 +1,5 @@
 [
   {
-    "package": "meteoForecast",
-    "oncran": true
-  },
-  {
     "package": "rasterVis",
     "oncran": true
   },
