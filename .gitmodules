@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "meteoForecast"]
-	path = meteoForecast
-	url = https://github.com/oscarperpinan/meteoforecast
+[submodule "tdr"]
+	path = tdr
+	url = https://github.com/oscarperpinan/tdr
 	shallow = true
 	registered = true
 [submodule "rasterVis"]
@@ -18,8 +18,8 @@
 	url = https://github.com/oscarperpinan/solar
 	shallow = true
 	registered = true
-[submodule "tdr"]
-	path = tdr
-	url = https://github.com/oscarperpinan/tdr
+[submodule "meteoForecast"]
+	path = meteoForecast
+	url = https://github.com/oscarperpinan/meteoforecast
 	shallow = true
 	registered = true

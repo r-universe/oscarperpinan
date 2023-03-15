@@ -1,6 +1,6 @@
 [
   {
-    "package": "meteoForecast",
+    "package": "tdr",
     "oncran": true
   },
   {
@@ -12,7 +12,7 @@
     "oncran": true
   },
   {
-    "package": "tdr",
+    "package": "meteoForecast",
     "oncran": true
   }
 ]
