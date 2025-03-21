@@ -4,13 +4,13 @@
 	branch = HEAD
 [submodule "meteoForecast"]
 	path = meteoForecast
-	url = https://github.com/oscarperpinan/meteoforecast
+	url = https://github.com/cran/meteoForecast
 [submodule "rasterVis"]
 	path = rasterVis
-	url = https://github.com/oscarperpinan/rastervis
+	url = https://github.com/cran/rasterVis
 [submodule "solaR"]
 	path = solaR
-	url = https://github.com/oscarperpinan/solar
+	url = https://github.com/cran/solaR
 [submodule "tdr"]
 	path = tdr
-	url = https://github.com/oscarperpinan/tdr
+	url = https://github.com/cran/tdr
