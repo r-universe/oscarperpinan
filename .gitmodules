@@ -13,4 +13,4 @@
 	url = https://github.com/cran/solaR
 [submodule "tdr"]
 	path = tdr
-	url = https://github.com/cran/tdr
+	url = https://codeberg.org/oscarperpinan/tdr
