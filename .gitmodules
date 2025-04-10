@@ -10,7 +10,7 @@
 	url = https://github.com/cran/rasterVis
 [submodule "solaR"]
 	path = solaR
-	url = https://github.com/cran/solaR
+	url = https://codeberg.org/oscarperpinan/solar
 [submodule "tdr"]
 	path = tdr
 	url = https://codeberg.org/oscarperpinan/tdr
