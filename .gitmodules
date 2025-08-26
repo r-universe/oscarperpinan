@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "meteoForecast"]
 	path = meteoForecast
-	url = https://github.com/cran/meteoForecast
+	url = https://codeberg.org/oscarperpinan/meteoforecast
 [submodule "rasterVis"]
 	path = rasterVis
 	url = https://github.com/cran/rasterVis
