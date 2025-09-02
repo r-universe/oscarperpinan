@@ -7,7 +7,7 @@
 	url = https://codeberg.org/oscarperpinan/meteoforecast
 [submodule "rasterVis"]
 	path = rasterVis
-	url = https://github.com/cran/rasterVis
+	url = https://codeberg.org/oscarperpinan/rastervis
 [submodule "solaR"]
 	path = solaR
 	url = https://codeberg.org/oscarperpinan/solar
